@@ -1,4 +1,12 @@
-### Hi there 👋
+![alt text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
+### Hi there, I'm Kirill 👋
+
+- 🔭 Currently on my way to mastering compruter science. 
+In Courses repository you can find all materials related to various CS courses I've already took or doing at the moment. 
+
+- 📫 How to reach me:
+[LinkedIn profile](https://www.linkedin.com/in/kirill-avilenko/)
 
 <!--
 **akv-akv/akv-akv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
