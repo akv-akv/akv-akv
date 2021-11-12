@@ -2,8 +2,7 @@
 
 ### Hi there, I'm Kirill 👋
 
-- 🔭 Currently on my way to mastering compruter science. 
-In Courses repository you can find all materials related to various CS courses I've already took or doing at the moment. 
+- 🔭 Data analyst at Invitro
 
 - 📫 How to reach me:
 [LinkedIn profile](https://www.linkedin.com/in/kirill-avilenko/)
