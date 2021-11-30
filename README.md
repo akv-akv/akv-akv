@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Kirill 👋
 
-- 🔭 Data analyst at Invitro
+- 🔭 Data engineer at Invitro
 
 - 📫 How to reach me:
 [LinkedIn profile](https://www.linkedin.com/in/kirill-avilenko/)
