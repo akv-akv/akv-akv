@@ -1,5 +1,3 @@
-![alt text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
-
 ### Hi there, I'm Kirill 👋
 
 - 🔭 Data engineer at Invitro
