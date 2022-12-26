@@ -1,6 +1,6 @@
 ### Hi there, I'm Kirill 👋
 
-- 🔭 Data engineer at Invitro
+- 🔭 Senior Data engineer at Kitopi
 
 - 📫 How to reach me:
 [LinkedIn profile](https://www.linkedin.com/in/kirill-avilenko/)
